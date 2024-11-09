@@ -1,0 +1,4 @@
+math
+pytest
+pytest-cov
+pytest-xdist
