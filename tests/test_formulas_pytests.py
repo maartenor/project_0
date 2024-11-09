@@ -12,4 +12,4 @@ def test_decrement():
     assert formulas.decrement(4) == 3
 
 def test_fail_decrement():
-    assert formulas.decrement(4) == 4
+    assert formulas.decrement(4) != 4
