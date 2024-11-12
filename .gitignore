@@ -1,0 +1,4 @@
+__pycache__
+.pytest_cache
+tests/__pycache__
+__pycache__/file_parser.cpython-38.pyc
